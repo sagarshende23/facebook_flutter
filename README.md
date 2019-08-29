@@ -1,16 +1,35 @@
-# facebook_flutter
+<h1 align="center">
+  <br>
+  Facebook Flutter
+  <br>
+</h1>
 
 A new Flutter project.
 
-## Getting Started
+## 📱 Video #
 
-This project is a starting point for a Flutter application.
+<p align="center">
+<img src="https://im.ezgif.com/tmp/ezgif-1-caba8dea82a0.gif">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screenshots #
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p align="center">
+   <img src="https://raw.githubusercontent.com/sagarshende23/facebok_flutter/master/vlcsnap-2019-08-29-15h47m55s840.png" width="250" hspace="4">
+  <img src="https://raw.githubusercontent.com/sagarshende23/facebok_flutter/master/vlcsnap-2019-08-29-15h47m42s334.png" width="250" hspace="4">
+  <img src="https://raw.githubusercontent.com/sagarshende23/facebok_flutter/master/vlcsnap-2019-08-29-15h47m50s087.png" width="250" hspace="4">
+ 
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ Built with Amazing Tools
+* [Flutter](https://flutter.dev/) - Beautiful native apps in record time.
+* [Android Studio](https://developer.android.com/studio/index.html/) - Tools for building Awesome apps on every type of Android device.
+* [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
+
+
+## 🤝 Show Some Support #
+If you liked the app give this repo a ⭐️ 
+
+
+## 🐛 Bugs/Requests #
+If you encounter any problems feel free to open an issue. If you feel the library is missing a feature, please raise a ticket on Github and I'll look into it. Pull request are also welcome.
