@@ -9,7 +9,7 @@ A new Flutter project.
 ## 📱 Video #
 
 <p align="center">
-<img src="https://im.ezgif.com/tmp/ezgif-1-caba8dea82a0.gif">
+<img src="https://im.ezgif.com/tmp/ezgif-1-5e4b5330b81b.gif">
 </p>
 
 ## 📱 Screenshots #
