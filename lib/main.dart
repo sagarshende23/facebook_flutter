@@ -3,6 +3,8 @@ import 'package:facebook_audience_network/facebook_audience_network.dart';
 import 'package:flutter/services.dart';
 
 Future main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+
   SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp])
       .then((_) {
     SystemChrome.setEnabledSystemUIOverlays([]);
